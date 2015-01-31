@@ -1,4 +1,8 @@
 <template name="index">
   {{> loginButtons}}
   index
+
+  {{#if currentUser}}  
+    {{> webrtc}}  
+  {{/if}}
 </template>
