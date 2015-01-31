@@ -1,0 +1,20 @@
+{
+  "name": "meteor-rtc",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MeteorWroclaw/meteor-rtc",
+  "authors": [
+    "jan.wieczorkowski <jan.wieczorkowski@naturaily.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".meteor/local/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rtc": "rtc-io/rtc#~3.2.1"
+  }
+}
