@@ -10,3 +10,5 @@ insecure
 twbs:bootstrap
 accounts-github
 service-configuration
+iron:router
+accounts-ui
